@@ -4,6 +4,12 @@
 This documentation provides comprehensive information about Requirements for Generators (RFG) based on European standards, specifically for grid feeding back projects.
 
 ## Contents
+
+### 🚀 Quick Start
+- **[Quick Reference Guide](quick-reference.md)** - Fast decision tree and country-specific quick refs
+- **[Download Checklist](download-checklist.md)** - Track your document downloads
+
+### 📚 Detailed Documentation
 1. [European RFG Standards Overview](european-rfg-standards.md)
 2. [Prerequisites for Grid Feeding Projects](prerequisites.md)
 3. [Grid Connection Requirements](grid-connection-requirements.md)
