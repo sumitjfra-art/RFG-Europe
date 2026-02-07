@@ -12,6 +12,8 @@ This repository provides detailed documentation and resources for grid feeding b
 
 ### Quick Links
 
+- **[🚀 Quick Reference Guide](docs/quick-reference.md)** - Fast decision tree and country-specific quick references
+- **[📋 Download Checklist](docs/download-checklist.md)** - Track your document downloads
 - **[European RFG Standards](docs/european-rfg-standards.md)** - Overview of EU Regulation 2016/631 and ENTSO-E requirements
 - **[Prerequisites for Grid Feeding Projects](docs/prerequisites.md)** - Essential checklist for starting grid connection projects
 - **[Grid Connection Requirements](docs/grid-connection-requirements.md)** - Detailed connection requirements by generator type and country
