@@ -2,11 +2,11 @@
 
 ## 🎯 Quick Decision Tree
 
-### Step 1: What is your generator capacity?
+### Step 1: What is your generator capacity and connection voltage level?
 - **≤ 0.8 kW** → You are Type A - [See Type A Requirements](#type-a-quick-guide)
 - **0.8 kW - 1 MW** → You are Type B - [See Type B Requirements](#type-b-quick-guide)
-- **> 1 MW and < 110 kV** → You are Type C - [See Type C Requirements](#type-c-quick-guide)
-- **≥ 110 kV** → You are Type D - [See Type D Requirements](#type-d-quick-guide)
+- **> 1 MW and connection voltage < 110 kV** → You are Type C - [See Type C Requirements](#type-c-quick-guide)
+- **> 1 MW and connection voltage ≥ 110 kV** → You are Type D - [See Type D Requirements](#type-d-quick-guide)
 
 ### Step 2: Which country are you in?
 - 🇩🇪 **Germany** - [Jump to Germany Section](#germany-quick-ref)
